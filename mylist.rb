@@ -1,3 +1,6 @@
+
+require_relative 'myenumerable.rb'
+
 class MyList
   include MyEnumerable
   def initialize(*args)
