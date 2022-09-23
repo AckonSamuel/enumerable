@@ -1,5 +1,4 @@
-
-require_relative 'myenumerable.rb'
+require_relative 'myenumerable'
 
 class MyList
   include MyEnumerable
